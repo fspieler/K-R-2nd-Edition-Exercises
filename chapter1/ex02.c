@@ -1,3 +1,6 @@
+//K&R 2nd Edition exercise 1-2
+//Fred Spieler
+
 #include <stdio.h>
 
 main(){
